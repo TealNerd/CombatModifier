@@ -1,0 +1,17 @@
+bowBuff: 1.5
+eatEnchantedApples: true
+eatGoldenApples: true
+enchantedAppleEffects:
+  - INCREASE_DAMAGE:100:1
+  - REGENERATION:100:2
+  - SPEED:100:2
+goldenAppleEffects:
+  - REGENERATION:50:1
+  - SPEED:50:1
+attackSpeed: 1.0
+playerMaxHealth: 20.0
+strengthModifier: 3
+healthBuff: 4.0
+projectileSlowChance: 30
+projectileSlowTicks: 100
+protectionScale: 0
